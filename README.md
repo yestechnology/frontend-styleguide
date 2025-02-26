@@ -1,6 +1,5 @@
-frontend-styleguide
-==============================
+# MOVED TO BITBUCKET!
 
-* View the style guide at http://yestechnology.github.io/frontend-styleguide/
+### Here's the new link:
 
-Fork: http://udacity.github.io/frontend-nanodegree-styleguide/
+https://bitbucket.org/foxsuporte/foxsuporte.bitbucket.io/src/main/frontend-styleguide/
